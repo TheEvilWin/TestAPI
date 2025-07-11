@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+numpy
+pydantic
+cachetools
+python-dotenv
+firebase-admin
