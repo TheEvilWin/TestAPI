@@ -5,4 +5,4 @@ pydantic
 cachetools
 python-dotenv
 firebase-admin
-xgboost
+sklearn
